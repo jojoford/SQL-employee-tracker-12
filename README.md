@@ -11,7 +11,8 @@ Use the MySQL NPM package to connect to your MySQL database and perform queries.
 Use InquirerJs NPM package to interact with the user via the command-line.
 
 Use console.table to print MySQL rows to the console. There is a built-in version of console.table
-## Animated GIF 
+## Walkthrough vid
+
 
 ## Screenshots  
 ![Employee Tracker Screenshot](assets/employee_tracker_screenshot_1.JPG) 
@@ -29,6 +30,7 @@ Use console.table to print MySQL rows to the console. There is a built-in versio
   * Delete departments, roles, and employees
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 * Use MySQL2 database and perform queries.
+* Uses the console.table package (Links to an external site.) to print MySQL rows to the console.
 * Use [InquirerJs](https://www.npmjs.com/package/inquirer/v/0.2.3) NPM package to interact with the user via the command-line.
  
 
