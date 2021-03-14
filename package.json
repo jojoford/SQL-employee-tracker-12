@@ -1,0 +1,26 @@
+{
+  "name": "12-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojoford/SQL-employee-tracker-12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojoford/SQL-employee-tracker-12/issues"
+  },
+  "homepage": "https://github.com/jojoford/SQL-employee-tracker-12#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
