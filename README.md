@@ -3,18 +3,19 @@
 
 
 ## Usage 
-To view and manage the departments, roles, and employees in the company
-To organize and plan the business
+To view and manage the departments, roles, and employees in the company.
+To organize and plan the business.
 
 Use the MySQL NPM package to connect to your MySQL database and perform queries.
 
 Use InquirerJs NPM package to interact with the user via the command-line.
 
 Use console.table to print MySQL rows to the console. There is a built-in version of console.table
+
 ## Walkthrough vid
 https://github.com/jojoford/SQL-employee-tracker-12/blob/main/hw-12-demo.gif
 
-https://drive.google.com/file/d/10hisoW7acKELmQdoU06Feix10xIgJA4u/view
+https://drive.google.com/file/d/14eROMGl2T1dxSBgwMil1DCCvKBH1uaxb/view
 
 ## Screenshots  
 ![Employee Tracker Screenshot](assets/employee_tracker_screenshot_1.JPG) 
